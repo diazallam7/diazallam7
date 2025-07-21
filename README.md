@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Allan Díaz</h1>
+<h3 align="center">Desarrollador Fullstack</h3>
 
-<!--
-**diazallam7/diazallam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,livewire,inertia,react,mysql,js,html,css,git" alt="Tech stack" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mí
+
+- 🎓 Estudiante de Ingeniería en Sistemas en la FNE - Paraguay  
+- 🔨 Trabajo con **Laravel**, **Livewire**, **Inertia**, **React**, **MySQL**
+- 🧩 También uso **Bootstrap**, **TailwindCSS**, **jQuery**, entre otros
+- 📦 Experiencia en desarrollo de sistemas POS, tiendas online, alquileres, inmobiliarias y más
+- ☁️ Deploy en **AWS**, **Laravel Cloud** y **servidores locales**
+- 🔍 Apasionado por resolver problemas reales con software hecho a medida
+
+---
+
+### 🚀 Tecnologías y herramientas
+
+- **Back-end:** Laravel, PHP, MySQL  
+- **Front-end:** React, Inertia, Livewire, TailwindCSS, Bootstrap  
+- **Otros:** Git, GitHub, XAMPP, Docker, AWS, Laravel Cloud  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diazallam7&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diazallam7&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 📫 Contacto
+
+- Email: **diazallan124@gmail.com**
+- WhatsApp: **+595 982908467**
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
