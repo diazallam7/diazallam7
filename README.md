@@ -9,11 +9,11 @@
 
 ### 🧠 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en Sistemas en la FNE - Paraguay  
+- 🎓 Estudiante de Ingeniería en Sistemas en la UNE - Paraguay  
 - 🔨 Trabajo con **Laravel**, **Livewire**, **Inertia**, **React**, **MySQL**
 - 🧩 También uso **Bootstrap**, **TailwindCSS**, **jQuery**, entre otros
 - 📦 Experiencia en desarrollo de sistemas POS, tiendas online, alquileres, inmobiliarias y más
-- ☁️ Deploy en **AWS**, **Laravel Cloud** y **servidores locales**
+- ☁️ Deploy en **AWS**, **Laravel Cloud** y **servidores**
 - 🔍 Apasionado por resolver problemas reales con software hecho a medida
 
 ---
